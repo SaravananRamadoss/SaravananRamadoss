@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaravananRamadoss
 - 👀 I’m interested in ...software devolopement
-- 🌱 I’m currently learning ...python
+
 - 💞️ I’m looking to collaborate on ...experience devolopers
 - 📫 How to reach me ...
 
